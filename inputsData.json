@@ -1,0 +1,46 @@
+{
+    "multi": [
+        {
+            "inputFor": "Education",
+            "inputs": [
+                {
+                    "id": "input_0",
+                    "value": "Degree"
+                },
+                {
+                    "id": "input_1",
+                    "value": "Institute"
+                },
+                {
+                    "id": "input_2",
+                    "value": "Year"
+                }
+            ]
+        },
+        {
+            "inputFor": "Experience",
+            "inputs": [
+                {
+                    "id": "input_0",
+                    "value": "Degree"
+                },
+                {
+                    "id": "input_1",
+                    "value": "Institute"
+                },
+                {
+                    "id": "input_2",
+                    "value": "Year"
+                }
+            ]
+        }
+    ],
+    "single": [
+        {
+            "type": "name",
+            "name": "name",
+            "id": "name",
+            "placeholder": "Enter Name"
+        }
+    ]
+}
